@@ -4,50 +4,59 @@
       "name": "Home",
       "url": "/"
     },
+
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Make Money Online",
+      "url": "https://earnonlinemoney.org/blog/make-money-online"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Side Hustles",
+      "url": "https://earnonlinemoney.org/blog/creative-side-hustles"
     },
     {
-      "name": "Pages",
-      "url": "",
+      "name": "Online Business",
+      "url": "https://earnonlinemoney.org/online-business"
+    },
+    {
+      "name": "Blog",
+      "url": "https://earnonlinemoney.org/blog"
+    },
+    {
+      "name": "Categories",
+      "url": "https://earnonlinemoney.org/categories",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
-          "url": "/contact"
+          "name": "Online Business",
+          "url": "/online-business"
         },
         {
-          "name": "Blog",
-          "url": "/blog"
+          "name": "Freelancing",
+          "url": "/freelancing"
         },
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Investing",
+          "url": "/investing"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Ecommerce",
+          "url": "/ecommerce"
         },
         {
-          "name": "Search",
-          "url": "/search"
+          "name": "Work From Home Jobs",
+          "url": "/work-from-home-jobs"
         },
         {
-          "name": "404 Page",
-          "url": "/404"
+          "name": "Reviews",
+          "url": "/reviews"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "About",
+      "url": "/about"
     },
     {
       "name": "Privacy Policy",
