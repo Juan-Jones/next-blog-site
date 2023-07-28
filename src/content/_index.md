@@ -39,7 +39,7 @@ features:
       link: "https://github.com/zeon-studio/nextplate"
 
   - title: "The Top Reasons to Choose Next for Your Next Project"
-    image: "/images/service-3.png"
+    image: "/images/entrepreneurs.png"
     content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
