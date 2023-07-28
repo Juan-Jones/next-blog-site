@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "What's Included in Nextplate"
-    image: "/images/casd.png"
+    image: "/images/ca.png"
     content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
     bulletpoints:
       - "10+ Pre-build pages"
@@ -27,7 +27,7 @@ features:
       link: "#"
 
   - title: "Discover the Key Features Of Next"
-    image: "/images/money-at-home.png"
+    image: "/images/money-from-home.png"
     content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
@@ -39,7 +39,7 @@ features:
       link: "https://github.com/zeon-studio/nextplate"
 
   - title: "The Top Reasons to Choose Next for Your Next Project"
-    image: "/images/entrepreneur.png"
+    image: "/images/entrepreneurss.png"
     content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
