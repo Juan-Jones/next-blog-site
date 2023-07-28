@@ -2,7 +2,7 @@
   "main": [
     {
       "name": "Home",
-      "url": "/"
+      "url": "https://earnonlinemoney.org"
     },
 
     {
@@ -54,6 +54,10 @@
     }
   ],
   "footer": [
+    {
+      "name": "Articles",
+      "url": "/articles"
+    },
     {
       "name": "About",
       "url": "/about"

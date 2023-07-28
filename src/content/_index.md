@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  title: "Ultimate Guide to Earn Money Online"
+  content: "Hello, thanks for visiting! Let's cut to the chase. You landed on this page because you're searching for ways to earn money online? Right, well your journey to earn money online starts here!"
   image: "/images/money-internet.png"
   button:
     enable: true
@@ -11,41 +11,41 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
-    image: "/images/ca.png"
-    content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
+  - title: "Discover the Secrets to Making Money from Side Hustles:"
+    image: "/images/onlinem.png"
+    content: "Unlock Your Financial Potential"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Next and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Find the right side hustle."
+      - "Discover popular side hustle ideas."
+      - "Learn how to build your own side hustle"
+      - "Continuously learn and adapt to industry trends to stay competitive in your side hustle."
+      - "Identify your skills, passions, and interests to determine potential side hustle opportunities"
+      - "Learn how to build a strong brand identity for your side hustle, including a professional online presence."
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Side Hustle Guide"
       link: "#"
 
-  - title: "Discover the Key Features Of Next"
-    image: "/images/money-from-home.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Embrace the Power of Entrepreneurship."
+    image: "/images/money-opportunities.png"
+    content: "Understand the essence of entrepreneurship as the pursuit of creating, managing, and scaling a business venture:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Unleash your inner risk-taker and master the art of problem-solving."
+      - "Learn how to create significant value through entrepreneurial endeavors."
+      - "Develop an entrepreneurial mindset characterized by resilience, risk-taking, and adaptability."
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Learn About Entreprenuership"
       link: "https://github.com/zeon-studio/nextplate"
 
-  - title: "The Top Reasons to Choose Next for Your Next Project"
-    image: "/images/entrepreneurss.png"
-    content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Unleashing Growth and Success in the Digital Marketplace"
+    image: "/images/us.png"
+    content: "Build a thriving profitable online store."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Discover the essential elements of a successful e-commerce store."
+      - "Learn how to build trust by facilitating seamless transactions."
+      - "Explore insights into the latest trends and best practices in e-commerce."
+      - "Recognize the advantages of ecommerce, including lower overhead costs, 24/7 accessibility, and the ability to scale and grow rapidly."
     button:
       enable: false
       label: ""

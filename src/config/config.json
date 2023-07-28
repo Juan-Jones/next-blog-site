@@ -29,7 +29,7 @@
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Start Here",
     "link": "https://github.com/zeon-studio/nextplate"
   },
 
