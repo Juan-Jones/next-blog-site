@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "What's Included in Nextplate"
-    image: "/images/cash-f.png"
+    image: "/images/casd.png"
     content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
     bulletpoints:
       - "10+ Pre-build pages"
